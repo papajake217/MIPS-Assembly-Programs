@@ -1,6 +1,6 @@
 # MIPS-Assembly-Programs
 
-Various MIPS assembly programs I wrote.
+Various MIPS assembly programs I wrote. The files contain functions that perform different tasks and are expected to be called in a separate file (sometimes in specific formats as well)
 
 
 ## Block Cipher 
